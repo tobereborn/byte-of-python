@@ -1,3 +1,6 @@
 /.settings/
 /.project
 /.pydevproject
+/src/examples/shoplist.data
+/src/examples/poem.txt
+/src/examples/*.pyc
