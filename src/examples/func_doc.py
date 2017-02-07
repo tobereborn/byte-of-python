@@ -8,10 +8,10 @@ Created on Dec 31, 2016
 '''
 
 def printMax(x, y):
-    '''Prints the maximum of the two numbers
-       
+    """Prints the maximum of the two numbers
+
        The two values must be integers. If not,
-       they are converted to integers.'''
+       they are converted to integers."""
     
     x = int(x)
     y = int(y)
